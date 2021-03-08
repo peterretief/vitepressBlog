@@ -1,0 +1,1 @@
+import{o as a,c as e,a as t}from"./app.8e08c8a3.js";const r='{"title":"Lasagne","description":"","frontmatter":{},"relativePath":"recipes/lasagne.md","lastUpdated":1615118143868}',n={},s=t("h1",{id:"lasagne"},"Lasagne",-1);n.render=function(t,r,n,i,o,d){return a(),e("div",null,[s])};export default n;export{r as __pageData};

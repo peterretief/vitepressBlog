@@ -1,0 +1,1 @@
+import{o as t,c as r,b as d}from"./app.8e08c8a3.js";const e='{"title":"","description":"","frontmatter":{},"relativePath":"about/our-story.md","lastUpdated":1615025646989}',o={},a=d("",2);o.render=function(d,e,o,s,n,_){return t(),r("div",null,[a])};export default o;export{e as __pageData};

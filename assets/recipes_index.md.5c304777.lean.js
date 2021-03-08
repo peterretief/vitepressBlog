@@ -1,0 +1,1 @@
+import{o as e,c as t,a as i}from"./app.8e08c8a3.js";const r='{"title":"Recipes","description":"","frontmatter":{},"headers":[{"level":2,"title":"Recipes","slug":"recipes"}],"relativePath":"recipes/index.md","lastUpdated":1615118021468}',s={},a=i("h2",{id:"recipes"},"Recipes",-1);s.render=function(i,r,s,p,c,d){return e(),t("div",null,[a])};export default s;export{r as __pageData};

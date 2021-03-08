@@ -1,0 +1,1 @@
+import{o as n,c as s,b as a}from"./app.8e08c8a3.js";const t='{"title":"abort on errors","description":"","frontmatter":{},"headers":[{"level":3,"title":"Setup this blog","slug":"setup-this-blog"}],"relativePath":"code/vitepress.md","lastUpdated":1615192797413}',p={},o=a('',12);p.render=function(a,t,p,e,c,i){return n(),s("div",null,[o])};export default p;export{t as __pageData};
